@@ -1,0 +1,31 @@
+#header-nav {
+	background-color: #cccccc;
+}
+
+#header-nav .navbar-toggle {
+    border-color: #000000;
+}
+
+#header-nav .navbar-toggle .icon-bar {
+    background-color: #000000;
+}
+
+.navbar-default .navbar-nav>li {
+	border: 1px solid black;
+	background-color: #ffffff;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+	background-color: #eeeeee;
+}
+
+#main-content .row {s
+	border: 1px solid black;
+	background-color: #cccccc;
+	margin-bottom: 5px;
+}
+
+#main-content h2 {
+	font-size: 20px;
+	font-weight: bold;
+}
